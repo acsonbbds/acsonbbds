@@ -4,10 +4,9 @@
 
 Security researcher focused on DeFi, protocol safety, reproducible PoCs, invariant analysis, and economic attack surfaces.
 
+[![Code4rena](https://img.shields.io/badge/Code4rena-AcsonBarbosa-6E56CF?style=for-the-badge)](https://code4rena.com/@AcsonBarbosa)
 
 ## Public Competition Highlights
-
-[![Code4rena](https://img.shields.io/badge/Code4rena-AcsonBarbosa-6E56CF?style=for-the-badge)](https://code4rena.com/@AcsonBarbosa)
 
 | Protocol | Area | Platform | Result | Earnings |
 |:---|:---|:---:|:---:|---:|
